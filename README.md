@@ -11,7 +11,7 @@ A smart farming prototype built on a single ESP8266 (NodeMCU) and monitored from
 
 ## Recognition
 
-<img src="images/sankalp.png" alt="Sankalp 2023 logo" height="90"> &nbsp;&nbsp; <img src="images/ANGRAU.png" alt="ANGRAU incubator logo" height="90">
+<img src="images/sankalp.png" alt="Sankalp 2023 logo" height="90"> &nbsp;&nbsp; <img src="images/ANGRAU.jpg" alt="ANGRAU incubator logo" height="90">
 
 This project was selected for **Sankalp 2023**.
 
